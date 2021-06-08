@@ -5,4 +5,4 @@
 
 **Description**
 
-A virtual keyboard project to enter text using a computer mouse or fingers on the smartphone screen.
+A virtual keyboard project for entering text using a computer mouse or graviature.
